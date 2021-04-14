@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancel</string>
+    <string name="app_name">Store Inventory</string>
+    <string name="Editor_activity_label_insert_mode">Insert Product</string>
+    <string name="Editor_activity_label_edit_mode">Edit Product</string>
+    <string name="Main_activity_label">Products</string>
+    <string name="overview">Overview</string>
+    <string name="quantity">Quantity</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="load_image">Load Image</string>
+    <string name="dollar_sign">$</string>
+    <string name="sale">SALE</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="five">5</string>
+    <string name="ten">10</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="attachment">Attachment</string>
+    <string name="quantity_value">1</string>
+    <string name="increment_sign">+</string>
+    <string name="decrement_sign">-</string>
+    <string name="editor_insert_product_failed">Error with saving Product</string>
+    <string name="editor_insert_product_successful">Product Saved</string>
+    <string name="editor_update_pet_failed">Product Updated Fail</string>
+    <string name="editor_update_pet_successful">Product Updated</string>
+    <string name="delete_dialog_msg">Delete This Product</string>
+    <string name="delete_all_dialog_msg">Delete All Products</string>
+    <string name="editor_delete_product_failed">Error With Deleting Product</string>
+    <string name="editor_delete_product_successful">Product Deleted</string>
+    <string name="order_dialog_msg">Order More From the Supplier </string>
+    <string name="order">Order</string>
+</resources>
