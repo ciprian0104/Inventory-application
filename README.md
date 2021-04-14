@@ -27,4 +27,4 @@ Here is an application for the Udacity Android Basics Inventory Project. This ap
 - The delete button prompts the user for confirmation and, if confirmed, deletes the product record entirely and sends the user back to the main activity.
 
 ## Demo
-![]()
+![](inventory-app.gif)
